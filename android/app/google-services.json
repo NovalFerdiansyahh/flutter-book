@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "710901229510",
+    "project_id": "book-mart-aa276",
+    "storage_bucket": "book-mart-aa276.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710901229510:android:e5c346d46e37c32266f4c7",
+        "android_client_info": {
+          "package_name": "com.mycompany.bookmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710901229510-55a8g974m524tcvro4r76d9t2ipo9l9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSDKSUSHzh58AA4LMF9gyPpyK2igbchBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710901229510-55a8g974m524tcvro4r76d9t2ipo9l9s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "710901229510-mtsloe5vqh6t4phci3hrrhljm65ujmod.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.bookmart"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
